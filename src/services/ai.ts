@@ -39,7 +39,7 @@ Final Ranking & Recommendation
 (Number the candidates from best to worst fit + one-sentence hiring advice for the top 1–2)`;
 
   const response = await ai.models.generateContent({
-    model: "gemini-3.1-pro-preview",
+    model: "gemini-1.5-flash",
     contents: prompt,
   });
 
