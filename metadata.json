@@ -1,0 +1,5 @@
+{
+  "name": "ResumeMatch AI",
+  "description": "Match job descriptions with resumes and calculate compatibility percentages.",
+  "requestFramePermissions": []
+}
